@@ -6,5 +6,5 @@ RFCM-PALM  can predict the palmitoylated cysteine sites on synaptic proteins of 
 ####  RFCM-PALM is developed in Python >= 3.
 ######        python RFCM_PALM.py \<filename\> \<dataType\>
 ######        Example     : python RFCM_PALM.py inputSeq.fasta Male
-######        \<filename\>  : input fasta file     : (example: inputSeq.fasta)
+######        \<filename\>  : input_fasta_file     : (example: inputSeq.fasta)
 ######        \<dataType\>  : Male/Female/Combined : (example: Male)
